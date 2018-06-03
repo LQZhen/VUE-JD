@@ -1,24 +1,24 @@
 <template>
     <div :class="$style.list">
-        <router-link :class="$style.item" :to="{name: 'Home'}" tag="div">
+        <router-link :class="$style.item" :to="{name: 'home'}" tag="div">
             <img src="https://img12.360buyimg.com/jrpmobile/jfs/t11653/76/201131398/1192/bf1b2852/59e9d7f3N5f691137.png?width=60&height=60" alt="">
             <p>首页</p>
         </router-link>
-        <router-link :class="$style.item" :to="{name: 'Earn'}" tag="div"> 
+        <router-link :class="$style.item" :to="{name: 'money'}" tag="div"> 
             <img src="https://img12.360buyimg.com/jrpmobile/jfs/t7690/252/3621724688/1715/757a3ca1/59e9d81bN27304850.png?width=60&height=60" alt="">
-            <p>赚钱</p>
+            <p>理财</p>
         </router-link>
-        <router-link :class="$style.item" :to="{name: 'Vip'}" tag="div">
+        <router-link :class="$style.item" :to="{name: 'ious'}" tag="div">
             <img src="https://img12.360buyimg.com/jrpmobile/jfs/t11653/76/201131398/1192/bf1b2852/59e9d7f3N5f691137.png?width=60&height=60" alt="">
-            <p>借钱</p>
+            <p>白条</p>
         </router-link>
-        <router-link :class="$style.item" to="home" tag="div">
+        <router-link :class="$style.item" :to="{name: 'raise'}" tag="div">
             <img src="https://img12.360buyimg.com/jrpmobile/jfs/t19729/201/1027312338/1395/95cecd48/5ab85d0eN01f81011.png?width=56&height=56" alt="">
-            <p>省钱</p>
+            <p>福利</p>
         </router-link>
-        <router-link :class="$style.item" to="home" tag="div">
+        <router-link :class="$style.item" :to="{name: 'download'}" tag="div">
             <img src="https://img12.360buyimg.com/jrpmobile/jfs/t10897/141/1894216742/2046/ad0e8dc1/59e9d7feNaa5dd2fd.png?width=60&height=60" alt="">
-            <p>金融会员</p>
+            <p>APP下载</p>
         </router-link>
     </div>
 </template>
