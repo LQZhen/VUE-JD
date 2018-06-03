@@ -1,6 +1,6 @@
 # VUE项目之仿京东金融APP
 
-{% link 项目学习笔记 https://liyongjie123.github.io/vue%E4%BB%BF%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8Dapp%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/cjhw0d5150004i8v9npyr8njp/ %}
+## [项目填坑记录](https://liyongjie123.github.io/vue%E4%BB%BF%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8Dapp%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/cjhw0d5150004i8v9npyr8njp/)
 
 ![](https://liyongjie123.github.io/vue%E4%BB%BF%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8Dapp%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/cjhtym6850003mgv9s011bx8w/show3.png)
 ![](https://liyongjie123.github.io/vue%E4%BB%BF%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8Dapp%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/cjhtym6850003mgv9s011bx8w/show2.png)
