@@ -3,6 +3,8 @@ const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
+
+
 module.exports = env => {
   if (!env) {
     env = {}
@@ -24,9 +26,7 @@ module.exports = env => {
     )
   }
   return {
-    entry: {
-      app: './app/js/main.js'
-    },
+    entry: ['./app/js/viewport.js','./app/js/main.js'],
     devServer: {
       contentBase: './dist',
       hot: true,
